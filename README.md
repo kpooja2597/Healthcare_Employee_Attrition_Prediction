@@ -26,6 +26,7 @@
 
 ![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/1c18146b-96d3-46b5-b3a5-db125608fc61)
 
+![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/d1052b77-4c8c-4bea-9afe-84cec501ee28)
 
 
 
