@@ -16,8 +16,6 @@
 
 ![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/57b9db41-bfcb-42ed-8669-47ddd95a58ae)
 
-![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/f5aa3227-e2b8-45d4-a046-2f25a4fc1cab)
-
 ![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/34e28f46-79f5-4982-a514-074f485d115f)
 
 ![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/d74746cb-89c2-4ca7-9105-458e20d202d7)
@@ -28,7 +26,7 @@
 
 ![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/1c18146b-96d3-46b5-b3a5-db125608fc61)
 
-![image](https://github.com/kpooja2597/Healthcare_Employee_Attrition_Prediction/assets/36571510/9e47841c-bf53-4da0-aa0d-6bad12431576)
+
 
 
 
